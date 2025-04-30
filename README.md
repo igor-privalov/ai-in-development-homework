@@ -13,7 +13,9 @@ The application is built using:
 For detailed information about the implementation, setup instructions, and how to run the application, please refer to the repository's [README.md](https://github.com/igor-privalov/expense-calculator/blob/main/README.md).
 
 ## 2. API Testing: Identifying Defects in Product Data
+All the tests have been successfully passed, including verifying server responses, product attributes, and defect detection. For more detailed test results, please refer to the full documentation.
 
+For more details on the test cases and results, check the full [README.md](https://github.com/igor-privalov/ai-in-development-homework/blob/main/task-2/README.md).
 - Test 1: Response Status Code
 Expected: 200, Actual: 200
 ✅ Passed
