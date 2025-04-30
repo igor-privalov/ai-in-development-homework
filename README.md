@@ -14,6 +14,17 @@ For detailed information about the implementation, setup instructions, and how t
 
 ## 2. API Testing: Identifying Defects in Product Data
 
+Test 1: Response Status Code
+Expected: 200, Actual: 200
+✅ Passed
+----------------------------------------
+
+Test 2: Product Data Validation
+✅ All products passed validation
+----------------------------------------
+
+Test 3: Products with Defects Summary
+✅ No products with defects found
 
 ## 3. SQL Queries: Analyzing a Database Online
 
